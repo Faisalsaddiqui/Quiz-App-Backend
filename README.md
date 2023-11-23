@@ -1,1 +1,1 @@
-# Quiz-App-Backend
+A Quiz Game project made with laravel framework
